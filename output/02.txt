@@ -1,0 +1,3 @@
+Enter a string
+Hello
+Reverse of the string is "olleH".

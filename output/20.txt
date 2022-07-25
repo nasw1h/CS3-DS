@@ -1,0 +1,10 @@
+Enter number of elements in array
+4
+Enter 4 integer(s)
+1
+2
+3
+4
+Enter a number to search
+3
+3 is present at location 3.

@@ -1,0 +1,5 @@
+Enter some text
+Hello
+Enter a string to find
+lo
+Found at location: 4

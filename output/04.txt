@@ -1,0 +1,10 @@
+This Program is Used To seaech an element in 2Dimensional Array using Linear Search
+
+ Enter The Value Of Array:10
+11
+12
+13
+
+ Enter The Value To Be Serched:12
+
+ The Item is at 2 Row And 1 Coloumn.

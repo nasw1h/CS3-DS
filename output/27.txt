@@ -1,0 +1,16 @@
+Simple Heap Sort Example - Functions and Array
+
+Enter 5 Elements for Sorting
+45
+34
+56
+23
+54
+Your Data   :	45	34	56	23	54
+Heap Sort Iteration 4 : 	54	34	45	23	56
+Heap Sort Iteration 3 : 	45	34	23	54	56
+Heap Sort Iteration 2 : 	34	23	45	54	56
+Heap Sort Iteration 1 : 	23	34	45	54	56
+Heap Sort Iteration 0 : 	23	34	45	54	56
+
+Sorted Data :	23	34	45	54	56

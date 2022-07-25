@@ -1,0 +1,12 @@
+Please Enter the First Array Size : 2
+
+Please Enter the First Array Elements : 1
+2
+
+ Please Enter the Second Array Size : 2
+
+Please Enter the Second Array Elements : 3
+4
+
+ a[4] Array Elements After Merging 
+ 1        2       3       4      

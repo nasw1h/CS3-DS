@@ -1,0 +1,10 @@
+Enter number of elements
+4
+Enter 4 integers
+11
+12
+13
+14
+Enter value to find
+12
+12 found at location 2.

@@ -1,0 +1,4 @@
+Before the sort the array was 
+ 10  9  8  23  19  11  2  7  1  13  12 
+After the sort the array was 
+1  2  7  8  9  10  11  12  13  19  23 

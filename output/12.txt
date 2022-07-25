@@ -1,0 +1,15 @@
+Menu
+	 1 to create the element : 
+	 2 to delete the element : 
+	 3 to display the queue : 
+	 4 to exit from main : 
+Enter your choice : 1
+Enter the node value : 4
+ 
+Enter your choice : 3
+4 address=2690935488 next=2690935488	
+ 
+Enter your choice : 2
+4
+ 
+Enter your choice : 4

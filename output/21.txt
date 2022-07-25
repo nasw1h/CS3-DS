@@ -1,0 +1,12 @@
+Enter number of elements
+4
+Enter 4 integers
+23
+34
+12
+11
+Sorted list in ascending order:
+11
+12
+23
+34

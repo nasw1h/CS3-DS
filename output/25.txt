@@ -1,0 +1,6 @@
+How many elements are u going to enter?: 4
+Enter 4 elements: 7
+2
+6
+3
+Order of Sorted elements:  2 3 6 7

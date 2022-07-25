@@ -1,0 +1,13 @@
+Enter the value of n 
+3
+Enter 3 names 
+Muzna
+Safvan
+Adnan
+------------------------------------------
+Input Names	Sorted names
+--------------------------------------------
+Muzna		Muzna
+Safvan		Safvan
+Adnan		Adnan
+--------------------------------------------
