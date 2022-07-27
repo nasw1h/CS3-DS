@@ -57,7 +57,6 @@ void pop()
     }
     else
     {
-
         printf("\n\t The popped elements is %d", stack[top]);
         top--;
     }
